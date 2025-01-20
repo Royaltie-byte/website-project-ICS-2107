@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/background.jpg);
+    background-image: url(images/pexels-valeriya-1639556.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -74,9 +74,7 @@ footer a{
     display: block;
    
 }
-{
-    background-color:none;
-}
+
 form{
     width: 80% ;
     margin: right 40px;
